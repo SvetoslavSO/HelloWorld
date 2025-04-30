@@ -1,5 +1,9 @@
 ﻿#include <iostream>
 
+void Mfunc() {
+    std::cout << "Commit works";
+}
+
 int main()
 {
     std::cout << "\n";
@@ -9,4 +13,6 @@ int main()
     std::cout << "Kogda je Misha apnet 10lvl FaceIt";
 
     std::cout << "nemkevichgeorg's commit to Svetik project";
+
+    Mfunc();
 }
