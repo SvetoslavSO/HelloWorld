@@ -1,4 +1,7 @@
 ﻿#include <iostream>
+void MyTestFunction() {
+    std::cout << "nemkevichgeorg's function result";
+}
 
 int main()
 {
@@ -10,4 +13,5 @@ int main()
 
     std::cout << "nemkevichgeorg's commit to Svetik project";
     std::cout << "new nemkevichgeorg's extra line";
+    MyTestFunction();
 }
