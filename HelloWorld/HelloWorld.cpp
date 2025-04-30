@@ -15,4 +15,5 @@ int main()
     std::cout << "nemkevichgeorg's commit to Svetik project";
 
     Mfunc();
+    std::cout << "extra line";
 }
