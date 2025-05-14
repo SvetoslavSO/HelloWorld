@@ -1,13 +1,16 @@
 ﻿#include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Misha's commit to Svetoslav project";
-    std::cout << "extra line";
-    std::cout << "Kogda je Misha apnet 10lvl FaceIt";
+    cout << endl;
+    cout << "Hello World!" << endl;
+    cout << "Misha's commit to Svetoslav project" << endl;
+    cout << "extra line" << endl;
+    cout << "Kogda je Misha apnet 10lvl FaceIt" << endl;
+    cout << "nemkevichgeorg's commit to Svetik project" << endl;
+    cout << "new nemkevichgeorg's extra line" << endl;
+    cout << "b3tlejuice's debug commit" << endl; //also fixed all spaghetti code
 
-    std::cout << "nemkevichgeorg's commit to Svetik project";
-    std::cout << "new nemkevichgeorg's extra line";
 }
