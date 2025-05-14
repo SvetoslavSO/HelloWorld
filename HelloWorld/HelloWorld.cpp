@@ -13,6 +13,7 @@ int main()
 
     std::cout << "nemkevichgeorg's commit to Svetik project";
     std::cout << "new nemkevichgeorg's extra line";
-    std::cout << "new line";
+    std::cout << "new line";  
+    std::cout << "new nemkevichgeorg's extra line";
     MyTestFunction();
 }
